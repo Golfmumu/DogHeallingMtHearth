@@ -1,0 +1,53 @@
+{
+id : 1,
+name : "Labrador Retriever",
+img : ./img/LabradorRetriever.jpg
+},
+{
+id : 2,
+name : "French Bulldog",
+img : ./img/FrenchBulldog.jpg
+},
+{
+id : 3,
+name : "German Shepherd",
+img : ./img/GermanShepherd.jpg
+},
+{
+id : 4,
+name : "Golden Retriever",
+img : ./img/GoldenRetriever.jpg
+},
+{
+id : 5,
+name : "Bulldog",
+img : ./img/Bulldog.jpg
+},
+{
+id : 6,
+name : "Poodle",
+img : ./img/Poodle.jpg
+},
+{
+id : 7,
+name : "Beagle",
+img : ./img/Beagle.jpg
+},
+{
+id : 8,
+name : "Rottweiler",
+img : ./img/Rottweiler.jpg
+},
+{
+id : 9,
+name : "German Shorthaired Pointer",
+img : ./img/GermanShorthairedPointer.jpg
+},
+{
+id : 10,
+name : "Dachshund",
+img : ./img/Dachshund.jpg
+},
+
+
+
